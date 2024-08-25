@@ -1,7 +1,7 @@
 import { Timers } from 'pixel_combats/room';
 
 //К чему относится данный модуль
-[Modules("Timers", "pixel_combats/room")];
+[Modules('Timers', 'pixel_combats/room')];
 
 //Таймер и свойства к нему
 Timers(){
