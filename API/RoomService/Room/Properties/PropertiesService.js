@@ -2,7 +2,7 @@
 import { Properties } from 'pixel_combats/room';
 
 //К чему относится данный модуль
-[Modules("Properties", "pixel_combats/room";
+[Modules('Properties', 'pixel_combats/room')];
 
 //Использование
 Properties - 'Players', 'Teams';
