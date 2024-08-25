@@ -1,7 +1,7 @@
 import { Players } from 'pixel_combats/room';
 
 //К чему относится данный модуль
-[Modules("Players", "pixel_combats.room")];
+[Modules('Players', 'pixel_combats.room')];
 
 //Использование
 Players - 'Players', 'Teams';
