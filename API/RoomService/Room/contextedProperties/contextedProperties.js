@@ -16,6 +16,9 @@ return SkinType.contextedProperties('Players', 'Teams'){
 return InventoryType.contextedProperties('Players', 'Teams'){
   [Modules("Inventory")]: 0, 1 //перечисление видов инвентаря - 0 стандартный, 1 зомби
 }
+return BuildSpeed.contextedProperties('Players', 'Teams'){
+  [Modules("BuildSpeed")]: 1, 2, 3 //перечисление видов скорости по умолчанию 1
+}
 
 //Использование
 /*
